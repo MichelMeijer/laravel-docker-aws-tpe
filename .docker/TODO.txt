@@ -1,0 +1,1 @@
+URL for deploying on AWS: https://medium.com/faun/deploy-a-docker-ized-laravel-application-to-aws-ecs-with-codebuild-4b0e388f4f53

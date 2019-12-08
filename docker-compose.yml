@@ -5,4 +5,5 @@ services:
     ports:
       - "8001:80"
     volumes:
-      - .:/srv/app
+      - .:/srv/app  
+    network_mode: host

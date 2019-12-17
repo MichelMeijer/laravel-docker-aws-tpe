@@ -30,5 +30,3 @@ phases:
       - echo Pushing the Docker image...
       - docker image ls -a
       - docker push $REPOSITORY_URI:$IMAGE_TAG 
-view raw
-buildspec.yml hosted with ❤ by GitHub
